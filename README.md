@@ -1,5 +1,4 @@
-# afmb
-Another Fantastic Micro Blog
+# afmb - (Another F*!%ing Micro Blog)
 
 There is no license, and at least for now the app's purpose is moot if I allow any additional contributors.
 
