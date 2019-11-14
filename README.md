@@ -6,7 +6,7 @@ However, If any part of this code helps you solve a problem you are welcome to u
 
 Ideas may be free, and computers may be a science, but one's implementation of an idea of a computer is an extension of oneself - an art. There are so many ways to make a microblog and I encourage you to use whatever method feels natural to you.
 
-# Libraries
+## Libraries
 
 * flask
 * flask-pymongo
