@@ -8,5 +8,5 @@ Ideas may be free, and computers may be a science, but one's implementation of a
 
 # Libraries
 
--flask
--flask-pymongo
+* flask
+* flask-pymongo
